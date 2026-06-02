@@ -9,4 +9,4 @@
 https://drive.google.com/file/d/1I9yFjIsp41_DafCXP6zNcIAKHyqCErlp/view?usp=sharing  
 下載解壓縮後，打開TeamD_2.exe即可。(注意音量)
 ***
-![image](https://github.com/peazzz/My-Website/blob/main/img/video/LeaveMeAlone.gif)
+![image](https://github.com/peazzz/My-Website/blob/main/img/gif/LeaveMeAlone.gif)
